@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154152899867",
+    "project_id": "score-counter-766ac",
+    "storage_bucket": "score-counter-766ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154152899867:android:620f90f9965d1522c9afbe",
+        "android_client_info": {
+          "package_name": "com.madhwendra.scorecounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154152899867-9mmiatl4u09c5t7kdu2an1niiu589abm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaR1ikpKJO0r3vrXD5hcZlAAWSV4zh_ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154152899867-9mmiatl4u09c5t7kdu2an1niiu589abm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
